@@ -2,7 +2,7 @@
 
 <Badge type="tip" vertical="top" text="Elementor Pro" /> <Badge type="warning" vertical="top" text="Advanced" />
 
-Elementor has several builtin consditions, but external developers can create and register new consditions.
+Elementor has several builtin conditions, but external developers can create and register new conditions.
 
 ## Registering Conditions
 
